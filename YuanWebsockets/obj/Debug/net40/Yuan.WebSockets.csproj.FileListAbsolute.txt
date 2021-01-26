@@ -1,0 +1,15 @@
+C:\Users\sun_zhongyuan\Downloads\Fleck-master\Fleck-master\src\Fleck\obj\Debug\net40\Yuan.WebSockets.AssemblyInfoInputs.cache
+C:\Users\sun_zhongyuan\Downloads\Fleck-master\Fleck-master\src\Fleck\obj\Debug\net40\Yuan.WebSockets.AssemblyInfo.cs
+C:\Users\sun_zhongyuan\Downloads\Fleck-master\Fleck-master\src\Fleck\obj\Debug\net40\Yuan.WebSockets.csproj.CoreCompileInputs.cache
+C:\Users\sun_zhongyuan\Downloads\Fleck-master\Fleck-master\src\Fleck\bin\Debug\net40\Yuan.WebSockets.dll
+C:\Users\sun_zhongyuan\Downloads\Fleck-master\Fleck-master\src\Fleck\bin\Debug\net40\Yuan.WebSockets.pdb
+C:\Users\sun_zhongyuan\Downloads\Fleck-master\Fleck-master\src\Fleck\obj\Debug\net40\Yuan.WebSockets.dll
+C:\Users\sun_zhongyuan\Downloads\Fleck-master\Fleck-master\src\Fleck\obj\Debug\net40\Yuan.WebSockets.pdb
+E:\git\YuanWebSockets\YuanWebsockets\bin\Debug\net40\Yuan.WebSockets.dll
+E:\git\YuanWebSockets\YuanWebsockets\bin\Debug\net40\Yuan.WebSockets.pdb
+E:\git\YuanWebSockets\YuanWebsockets\obj\Debug\net40\Yuan.WebSockets.csprojAssemblyReference.cache
+E:\git\YuanWebSockets\YuanWebsockets\obj\Debug\net40\Yuan.WebSockets.AssemblyInfoInputs.cache
+E:\git\YuanWebSockets\YuanWebsockets\obj\Debug\net40\Yuan.WebSockets.AssemblyInfo.cs
+E:\git\YuanWebSockets\YuanWebsockets\obj\Debug\net40\Yuan.WebSockets.csproj.CoreCompileInputs.cache
+E:\git\YuanWebSockets\YuanWebsockets\obj\Debug\net40\Yuan.WebSockets.dll
+E:\git\YuanWebSockets\YuanWebsockets\obj\Debug\net40\Yuan.WebSockets.pdb

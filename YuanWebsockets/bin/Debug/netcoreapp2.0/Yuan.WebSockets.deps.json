@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Yuan.WebSockets/0.0.0.1-local": {
+        "runtime": {
+          "Yuan.WebSockets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yuan.WebSockets/0.0.0.1-local": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
